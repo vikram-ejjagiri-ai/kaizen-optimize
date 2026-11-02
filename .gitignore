@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.env
+
+# SCANIA Component X: open access via SND, but no explicit redistribution licence -> download it yourself
+data/maintenance/*.csv
+venv/
+env/

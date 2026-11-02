@@ -1,0 +1,10 @@
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+scikit-learn>=1.4
+ortools>=9.10
+streamlit>=1.40
+plotly>=5.20
+requests>=2.31
+pytest>=8.0
+openpyxl>=3.1
